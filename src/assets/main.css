@@ -1,0 +1,16 @@
+html {
+  position: relative;
+  min-height: 100vh;
+
+}
+body {
+  font-weight: 400;
+  color: #292929;
+  margin-bottom: 20vh !important;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
